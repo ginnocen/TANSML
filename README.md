@@ -8,7 +8,7 @@ Follow the instructions and install it. The predefined folder should be
 ### Install, create and load virtual environment 
 
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 mkdir $HOME/.python-virtual-environments && cd $HOME/.python-virtual-environments
 python3 -m venv env
 source $HOME/.python-virtual-environments/env/bin/activate
@@ -27,6 +27,11 @@ pip3 install jupyterlab
 ```
 
 ### Run a jupyter notebook
+```bash
+jupyter lab
+```
+This will open a browser. Click on the available example ExampleDataFrame.ipynb in the folder Notebooks to load the example. 
+To execute each cell, click on Shift+Return
 
 
 
