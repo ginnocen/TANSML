@@ -27,6 +27,11 @@ pip3 install jupyterlab
 ```
 
 ### Run a jupyter notebook
+```bash
+jupyter lab
+```
+This will open a browser. Click on the available example ExampleDataFrame.ipynb in the folder Notebooks to load the example. 
+To execute each cell, click on Shift+Return
 
 
 
