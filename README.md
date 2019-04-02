@@ -8,7 +8,7 @@ Follow the instructions and install it. The predefined folder should be
 ### Install, create and load virtual environment 
 
 ```bash
-pip install virtualenv
+pip3 install virtualenv
 mkdir $HOME/.python-virtual-environments && cd $HOME/.python-virtual-environments
 python3 -m venv env
 source $HOME/.python-virtual-environments/env/bin/activate
