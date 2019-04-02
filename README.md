@@ -22,6 +22,11 @@ cd MachineLearningHEP
 pip3 install -e . 
 ```
 ### Install jupyter lab
+```bash
+pip3 install jupyterlab
+```
+
+### Run a jupyter notebook
 
 
 
